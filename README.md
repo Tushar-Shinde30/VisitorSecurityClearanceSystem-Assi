@@ -1,7 +1,7 @@
-#Visitor Security Clearance System Guidance
-**APIs:**
-**Visitor CRUD**
-1. Create Visitor
+#Visitor Security Clearance System Guidance</b>
+**APIs:**</b>
+**Visitor CRUD**</b>
+1. Create Visitor</b>
 • Description: Registers a new visitor.
 • Note: Visitor can self-register.
 • Note: Check for existing user by email ID
@@ -12,7 +12,7 @@
 4. Delete Visitor
 • Description: Deletes a specific visitor.
 
-**Security CRUD**
+**Security CRUD**</b>
 5. Create Security
 • Description: Registers a new security personnel.
 6. Read Security
@@ -22,7 +22,7 @@
 8. Delete Security
 • Description: Deletes a specific security personnel.
 
-**Manager CRUD**
+**Manager CRUD**</b>
 9. Create Manager
 • Description: Registers a new manager.
 10.Read Manager
@@ -32,7 +32,7 @@
 12.Delete Manager
 • Description: Deletes a specific manager.
 
-**Office CRUD**
+**Office CRUD**</b>
 13.Create Office
 • Description: Registers a new office.
 14.Read Office
@@ -42,7 +42,7 @@
 16.Delete Office
 • Description: Deletes a specific office.
 
-**Login System**
+**Login System**</b>
 • Login
 • Endpoint: POST /login
 • Description: Authenticates a user if they exist.
